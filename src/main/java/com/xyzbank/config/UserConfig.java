@@ -14,10 +14,11 @@ import javax.sql.DataSource;
 @Configuration
 public class UserConfig {
 
+    /*
     @Bean
     public JdbcUserDetailsManager createUserDetailsUsingJdbc(DataSource dataSource) {
         return new JdbcUserDetailsManager(dataSource);
-    }
+    }*/
 
     /*
     @Bean
